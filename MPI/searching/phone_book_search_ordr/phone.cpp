@@ -148,4 +148,4 @@ int main(int argc, char **argv) {
     return 0;
 }
 //mpic++ phone.cpp -o mpi_phobook
-//mpirun -np 4 ./mpi_phobook file1.txt "search_term"
+//mpirun -np 4 ./mpi_phobook phonebook1.txt "search_term"
